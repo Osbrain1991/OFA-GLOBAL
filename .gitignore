@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.DS_Store
+sa.json
+
+# Local server artifacts
+server/uploads/
+server/data/

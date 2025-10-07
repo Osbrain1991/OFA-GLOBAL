@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ofa-alumni",
+  "private_key_id": "84fc247a841fe4c6536062d2c51a80a593e73852",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZgmxPdp4HlztF\nNsQljjnrRGSP+14kmwhEBssiFd/BPy9Xw+u3JeVt3s6v6ajXb2h9jRMJWSz/jOs2\nbbWZqpsZQfx9HdKCDSceuuDWf8YgaKJZGNDtum9Nv83JBTLrIJNPR+6XQnUdZ4rt\nL2BSqydBX04dOH+fhFSzMH2BoXuao477ImL3ZEsOgiNc/pJ7duotMIxRgwoGk4iw\nSrz/bKEgvQ6lvOPQvdhj5SmG07jC0J5qN+Mw2ShlAFk3buS/l5WYJWldnJ+LbbTy\nbi3MBzBQqq3DiRaQxTeftISoRwcc03zeKRng0BbvaJa869qEhm10w/BhydZcsgEH\noJufzsyVAgMBAAECggEAKqY2u6wcF4vxXMR82IpXVAjwmQTmdFIL4F7epNvaKIfN\nri1mAl8FajJGn9q2tyuKtxea9HnOZ3uHwX/onG2GBQFZ02SuGr8efRmSrayXOlKa\nBtNlYD/uxDWIUdLZpZ4ZFHIb1//5e98KMDDad8tEor5f0D38VFh7zTkEWw9Bb9Qm\nujVxgkK15xOhka8LcmPUnpkVqdBxxnaqc+/4i1Adyk7uW08dRD3xsxPNfdKHsm7K\nWJe/+LFx2X1FwVgXTqanRSegp3JMqOfE87Z+4ZSHfsZeE4TX/uaR9SwQBaG7j4ql\nLCxjpMQivmd+yHJqZsC5h5ZxavlN6PqWQRDiLNuAoQKBgQD23/HQ/ValDmeZuu5Q\n4ArPx9iMx1STcHW/JgOG+arjab7V6PkKSh8g6wPpjQGS8p5o+ra1Fucll+lDoLeV\ndYpJJZOvtKr5eOv9v3Oen02HD64JG29uQtC/h1dI5V38RmSzM6sG633mjM9NFDoG\ndTgB6HyGRFu2Qt6I58E+hO3lEQKBgQDhjJvc0UKGzDpHjChby4v/QR9gWY+ocQip\ni1hxgxldAgM9EMOjl23wt0YPkHngJhuAs3HUURRaxn5m3aEdQHh1GdnvJb4Ufhf5\nxFD/ElxtbwxDuKqdgJLtQhG6OoDeljO5+0M4TECjVz+v/xHkc6Xek/B1HPzLeqTl\n99PnccMfRQKBgBc+8Qsnv6/dEl5EXspYvkvgWoCvCES10zCDiNN90NyHCYQk4sZY\nQmQcHQsxztMia04hRXD5zhwZGMrYaFD3d2T519U0ouDIxRfonh9yip9MF6wd3Dk6\nq2NNgCeKCXaGvlatZ85IAFvkKGTuoaQYB4UOeiM+bpBT7ZZglC6p36ixAoGAeoa5\n/SEotLWpS0jWe9d9e/LSqrK8mdKd1AzAxRlk4+O+AqRiwzH2JXhKdRYVPzE0a5wP\n0Dkjh5ShAhyP86YcSfD7NTEZq2Q8fhCpt4cv8rsKvJdLCDjamEz1+GbjrweFnhjj\nEWhLDPDOxjsYazRv/RP84oIWyisb/Vm+IdLpHskCgYAQuhZPDuhlT88USpQDLGQP\n1m7C//+7pxLWHnwvzc+ANv61ZIVUuGeIL8d7sJZiGHTVCv30LouiPyZvhEoT8MPG\ng//J6odf70kJ2Auoymy1xKkjY52c4a7GhG6Ayi9pN+M2bLjfr0iNx7iOB4iqhFqj\nCyAPQURnaF+r5rRkpT6GqQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@ofa-alumni.iam.gserviceaccount.com",
+  "client_id": "112348748619075485373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40ofa-alumni.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

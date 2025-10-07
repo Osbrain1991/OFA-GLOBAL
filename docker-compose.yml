@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  ofa:
+    build: .
+    image: ofalumni:latest
+    ports:
+      - '5178:5178'
+    environment:
+      - NODE_ENV=production
+      - ADMIN_EMAIL=info@ofalumni.org
+      - ADMIN_PASSWORD=2017
+      - FIREBASE_BUCKET=${FIREBASE_BUCKET}
+      - FIREBASE_SERVICE_ACCOUNT_PATH=/run/secrets/firebase.json
+    volumes:
+      - ./server/uploads:/app/server/uploads
+      - ./server/data:/app/server/data
+      - ./sa.json:/run/secrets/firebase.json:ro
+    restart: unless-stopped

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Old Francans' Association (OFA) - reconnecting alumni of St. Francis College of Education" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32.png">
+  <link rel="apple-touch-icon" href="/img/ofalogo.jpg">
+  <meta name="theme-color" content="#740315">
+  <meta property="og:image" content="/img/ofalogo.jpg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <title>Old Francans' Association (OFA)</title>
+    <!-- correct way to preload an image -->
+<link rel="preload" href="/img/franco-view.jpg" as="image" type="image/jpeg">
+    <!-- Removed unused preloads for franco images to avoid preload warnings -->
+    <!-- If you need to preload images, add: <link rel="preload" as="image" href="/img/your-image.jpg"> -->
+    <!-- Basic JSON-LD for organization -->
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"Organization","name":"Old Francans' Association","url":"/","logo":"/img/ofalogo.jpg","sameAs":[]}
+    </script>
+  <!-- Paystack public key (replace with your key) -->
+  <meta name="paystack-public-key" content="pk_test_f0a0497aa563bc656a567ab63de9ccc4fae327e1">
+  <!-- Paystack inline script (optional) -->
+  <script src="https://js.paystack.co/v1/inline.js" async></script>
+  </head>
+  <body class="antialiased bg-white text-[#1A202C]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
